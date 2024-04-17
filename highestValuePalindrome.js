@@ -20,16 +20,6 @@ function highestValuePalindrome(s, n, k) {
 
   let remainK = k - minK;
 
-  if (remainK % 2 !== 0) {
-    for (let i = 0; i < mid; i++) {
-      if (!pal[i][1] && remainK) {
-        pal[i] = [9, true];
-        remainK--;
-        break;
-      }
-    }
-  }
-
   for (let i = 0; i < mid; i++) {
     if (!remainK) break;
     if (pal[i][0] === 9) continue;
