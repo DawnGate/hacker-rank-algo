@@ -1,1 +1,2 @@
-console.log(highestValuePalindrome("", 99111, 50790));
+function test() {}
+console.log(test());
