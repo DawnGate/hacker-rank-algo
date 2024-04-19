@@ -18,3 +18,5 @@ function nonDivisibleSubset(k, s) {
 }
 
 console.log(nonDivisibleSubset(3, [1, 7, 2, 4]));
+
+// https://www.hackerrank.com/challenges/non-divisible-subset/problem

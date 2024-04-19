@@ -8,3 +8,5 @@ function extraLongFactorials(n) {
 }
 
 console.log(extraLongFactorials(25));
+
+// https://www.hackerrank.com/challenges/extra-long-factorials/problem

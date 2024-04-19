@@ -30,3 +30,5 @@ function sillyGame(n) {
 }
 
 console.log(sillyGame(5));
+
+// https://www.hackerrank.com/challenges/alice-and-bobs-silly-game/problem

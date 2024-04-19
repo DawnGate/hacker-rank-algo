@@ -38,3 +38,5 @@ function climbingLeaderboard(ranked, player) {
 console.log(
   climbingLeaderboard([100, 90, 90, 80, 75, 60], [50, 65, 77, 90, 102])
 );
+
+// https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem

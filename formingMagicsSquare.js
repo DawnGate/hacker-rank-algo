@@ -69,3 +69,5 @@ console.log(
     [6, 1, 6],
   ])
 );
+
+// https://www.hackerrank.com/challenges/magic-square-forming
